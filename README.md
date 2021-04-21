@@ -1,4 +1,4 @@
-# tasklist demo project
+# Simple Tasklist Demo Project
 Developed by Matheus Duarte Dias
 ````
 http://localhost:9000
